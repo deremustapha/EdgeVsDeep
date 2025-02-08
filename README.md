@@ -16,7 +16,9 @@ This repo was created to enable replication of an experiment examining the compa
 ## Setup
 ### 1. Clone the Repo
 ### 2. Create a dataset folder and download DB1~DB4.
-  #### 2.1. **[Ninapro DB5](https://emgbench.github.io/](https://ninapro.hevs.ch/instructions/DB5.html))**  
-
+#### 2.1. **[DB1: Ninapro DB5](https://ninapro.hevs.ch/instructions/DB5.html)**  
+#### 2.2. **[DB2: MyoArmBand Dataset](https://github.com/UlysseCoteAllard/MyoArmbandDataset)**  
+#### 2.3. **[DB3: Hyser Dataset](https://www.physionet.org/content/hd-semg/2.0.0/pr_dataset/#files-panel)**  
+#### 2.4. **[DB4: Hyser Dataset](https://github.com/flexemg/flexemg_v2)**  
 
 ## Run Experiment 
