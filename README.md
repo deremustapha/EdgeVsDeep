@@ -3,7 +3,7 @@
 ## EMBC 2025
 
 This is the official repo for the paper:  
-**[Are Edge Models Sufficient for sEMG-Based Gesture Recognition?](https://.github.io/)**  
+**[Are Edge Models Sufficient for sEMG-Based Gesture Recognition?](https://github.com/deremustapha/EdgeVsDeep/tree/master/paper/EMBC2025.pdf)**  
 
 ## Table of Contents
 - [Usage](#usage)
