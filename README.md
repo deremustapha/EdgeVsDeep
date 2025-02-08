@@ -14,9 +14,9 @@ This repo was created to enable replication of an experiment examining the compa
 # Usage
 
 ## Setup
-# 1. Clone the Repo
-# 2. Create a dataset folder and download DB1~DB4.
-  ## 2.1. **[Ninapro DB5]([https://emgbench.github.io/](https://ninapro.hevs.ch/instructions/DB5.html))**  
+### 1. Clone the Repo
+### 2. Create a dataset folder and download DB1~DB4.
+  #### 2.1. **[Ninapro DB5](https://emgbench.github.io/](https://ninapro.hevs.ch/instructions/DB5.html))**  
 
 
 ## Run Experiment 
