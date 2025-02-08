@@ -14,11 +14,20 @@ This repo was created to enable replication of an experiment examining the compa
 # Usage
 
 ## Setup
-### 1. Clone the Repo
+### 1. Create a virtual env, clone repo and install requirements
+
+```console
+$ git clone https://github.com/deremustapha/EdgeVsDeep.git
+$ cd EdgeVsDeep/
+$ conda activate _env_
+$ pip install -r requirements.txt
+```
 ### 2. Create a dataset folder and download DB1~DB4.
 #### 2.1. **[DB1: Ninapro DB5](https://ninapro.hevs.ch/instructions/DB5.html)**  
 #### 2.2. **[DB2: MyoArmBand Dataset](https://github.com/UlysseCoteAllard/MyoArmbandDataset)**  
 #### 2.3. **[DB3: Hyser Dataset](https://www.physionet.org/content/hd-semg/2.0.0/pr_dataset/#files-panel)**  
-#### 2.4. **[DB4: Hyser Dataset](https://github.com/flexemg/flexemg_v2)**  
+#### 2.4. **[DB4: FlexEMG Dataset](https://github.com/flexemg/flexemg_v2)**  
+
+### 3. Create a virtual env and install requirements. 
 
 ## Run Experiment 
