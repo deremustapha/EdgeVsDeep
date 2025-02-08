@@ -31,4 +31,4 @@ $ pip install -r requirements.txt
 
 ## Run Experiment 
 
-### To execute an experiment for each dataset, first locate code. E.g For DB1 navigate to 'cd/code/DB1'. Then specify the number of subjects, define the dataset path, and indicate the save directory.
+To execute an experiment for each dataset, first locate code. E.g For DB1 navigate to 'cd/code/DB1'. Then specify the number of subjects, define the dataset path, and indicate the save directory.
